@@ -1,0 +1,16 @@
+{
+    "ModTitle": "New Paintings",
+    "ModVersion": "0.1",
+    "ModAuthor": "PRAEst76",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "New paintings for use in DFU",
+    "GUID": "5f03c952-6b1a-46e8-a4a7-472c0a7b6c72",
+    "Files": [
+        "Assets/Game/Mods/New-Paintings/Models/79010/79010.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79011/79011.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79012/79012.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79013/79013.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79014/79014.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79015/79015.blend"
+    ]
+}
