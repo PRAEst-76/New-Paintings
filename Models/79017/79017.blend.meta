@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39895f1fa119cfa47842871ccb2ced07
+guid: 7b299b6b24befbc4fa34a317b8ef7824
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -31,7 +31,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
