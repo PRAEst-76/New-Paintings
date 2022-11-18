@@ -1,20 +1,30 @@
 {
     "ModTitle": "New Paintings",
-    "ModVersion": "0.1",
+    "ModVersion": "0.4",
     "ModAuthor": "PRAEst76",
     "DFUnity_Version": "0.13.5",
     "ModDescription": "New paintings for use in DFU",
     "GUID": "5f03c952-6b1a-46e8-a4a7-472c0a7b6c72",
     "Files": [
+        "Assets/Game/Mods/New-Paintings/Models/79010/79010.png",
+        "Assets/Game/Mods/New-Paintings/Models/79019/79019.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79011/79011.png",
         "Assets/Game/Mods/New-Paintings/Models/79010/79010.blend",
-        "Assets/Game/Mods/New-Paintings/Models/79011/79011.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79019/79019.png",
         "Assets/Game/Mods/New-Paintings/Models/79012/79012.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79013/79013.png",
+        "Assets/Game/Mods/New-Paintings/Models/79011/79011.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79017/79017.png",
         "Assets/Game/Mods/New-Paintings/Models/79013/79013.blend",
-        "Assets/Game/Mods/New-Paintings/Models/79014/79014.blend",
-        "Assets/Game/Mods/New-Paintings/Models/79015/79015.blend",
-        "Assets/Game/Mods/New-Paintings/Models/79016/79016.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79012/79012.png",
         "Assets/Game/Mods/New-Paintings/Models/79017/79017.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79014/79014.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79014/79014.png",
+        "Assets/Game/Mods/New-Paintings/Models/79015/79015.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79015/79015.png",
+        "Assets/Game/Mods/New-Paintings/Models/79016/79016.blend",
+        "Assets/Game/Mods/New-Paintings/Models/79016/79016.png",
         "Assets/Game/Mods/New-Paintings/Models/79018/79018.blend",
-        "Assets/Game/Mods/New-Paintings/Models/79019/79019.blend"
+        "Assets/Game/Mods/New-Paintings/Models/79018/79018.png"
     ]
 }
