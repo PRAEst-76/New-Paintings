@@ -1,0 +1,12 @@
+{
+    "Version": "0.5",
+    "Sections": [
+        {
+            "Name": "Resolution",
+            "Description": "Lowres or HD",
+            "IsAdvanced": false,
+            "Keys": [],
+            "$version": "v1"
+        }
+    ]
+}
